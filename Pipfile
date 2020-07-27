@@ -1,0 +1,6 @@
+[packages]
+beautifulsoup4 = "*"
+notebook = "*"
+numpy = "*"
+pandas = "*"
+requests = "*"
