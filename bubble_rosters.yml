@@ -1,0 +1,393 @@
+BOS:
+  - Jaylen Brown
+  - Carsen Edwards
+  - Tacko Fall
+  - Javonte Green
+  - Gordon Hayward
+  - Enes Kanter
+  - Romeo Langford
+  - Semi Ojeleye
+  - Vincent Poirier
+  - Marcus Smart
+  - Jayson Tatum
+  - Daniel Theis
+  - Kemba Walker
+  - Brad Wanamaker
+  - Tremont Waters
+  - Robert Williams III
+  - Grant Williams
+
+BRK:
+  - Jarrett Allen
+  - Justin Anderson
+  - Chris Chiozza
+  - Jamal Crawford
+  - Donta Hall
+  - Joe Harris
+  - Tyler Johnson
+  - Rodions Kurucs
+  - Caris LeVert
+  - Timothe Luwawu-Cabarrot
+  - Jeremiah Martin
+  - Dzanan Musa
+  - Garrett Temple
+  - Lance Thomas
+
+DAL:
+  - J.J. Barea
+  - Trey Burke
+  - Antonius Cleveland
+  - Seth Curry
+  - Luka Doncic
+  - Dorian Finney-Smith
+  - Tim Hardaway Jr.
+  - Justin Jackson
+  - Michael Kidd-Gilchrist
+  - Maxi Kleber
+  - Courtney Lee
+  - Boban Marjanovic
+  - Kristaps Porzingis
+  - Dwight Powell
+  - Josh Reaves
+  - Delon Wright
+
+DEN:
+  - Will Barton
+  - Keita Bates-Diop
+  - Bol Bol
+  - Vlatko Cancar
+  - Tyler Cook
+  - Torrey Craig
+  - Troy Daniels
+  - PJ Dozier
+  - Jerami Grant
+  - Gary Harris
+  - Nikola Jokic
+  - Paul Millsap
+  - Monte Morris
+  - Jamal Murray
+  - Mason Plumlee
+  - Michael Porter Jr.
+  - Noah Vonleh
+
+HOU:
+  - Bruno Caboclo
+  - DeMarre Carroll
+  - Tyson Chandler
+  - Chris Clemons
+  - Robert Covington
+  - Michel Frazier
+  - Eric Gordon
+  - Jeff Green
+  - James Harden
+  - Danuel House Jr.
+  - Luc Mbah a Moute
+  - Ben McLemore
+  - Austin Rivers
+  - P.J. Tucker
+  - Russell Westbrook
+
+IND:
+  - Goga Bitadze
+  - Brian Bowen II
+  - Malcolm Brogdon
+  - Aaron Holiday
+  - Justin Holiday
+  - Alize Johnson
+  - Jeremy Lamb
+  - TJ Leaf
+  - T.J. McConnell
+  - Doug McDermott
+  - Naz Mitrou-Long
+  - Victor Oladipo
+  - Domantas Sabonis
+  - JaKarr Sampson
+  - Edmond Sumner
+  - Myles Turner
+  - T.J. Warren
+
+LAC:
+  - Patrick Beverley
+  - Amir Coffey
+  - Paul George
+  - JaMychal Gren
+  - Montrezl Harrell
+  - Reggie Jackson
+  - Kawhi Leonard
+  - Terance Mann
+  - Rodney McGruder
+  - Marcus Morris Sr.
+  - Joakim Noah
+  - Patrick Patterson
+  - Landry Shamet
+  - Lou Williams
+  - Ivica Zubac
+
+LAL:
+  - Kostas Antetokounmpo
+  - Devontae Cacok
+  - Kentavious Caldwell-Pope
+  - Alex Caruso
+  - Quinn Cook
+  - Anthony Davis
+  - Jared Dudley
+  - Danny Green
+  - Talen Horton-Tucker
+  - Dwight Howard
+  - LeBron James
+  - Kyle Kuzma
+  - JaVale McGee
+  - Markieff Morris
+  - Rajon Rondo
+  - JR Smith
+  - Dion Waiters
+
+MEM:
+  - Grayson Allen
+  - Kyle Anderson
+  - Dillon Brooks
+  - Brandon Clarke
+  - Gorgui Dieng
+  - Marko Guduric
+  - Jaren Jackson Jr.
+  - Josh Jackson
+  - Tyus Jones
+  - John Konchar
+  - De’Anthony Melton
+  - Ja Morant
+  - Jontay Porter
+  - Anthony Tolliver
+  - Jonas Valanciunas
+  - Yuta Watanabe
+  - Justise Winslow
+
+MIA:
+  - Bam Adebayo
+  - Kyle Alexander
+  - Jimmy Butler
+  - Jae Crowder
+  - Goran Dragic
+  - Udonis Haslem
+  - Tyler Herro
+  - Solomon Hill
+  - Andre Iguodala
+  - Derrick Jones Jr.
+  - Meyers Leonard
+  - Kendrick Nunn
+  - KZ Okpala
+  - Kelly Olynyk
+  - Duncan Robinson
+  - Chris Silva
+  - Gabe Vincent
+
+MIL:
+  - Giannis Antetokounmpo
+  - Thanasis Antetokounmpo
+  - Eric Bledso
+  - Sterling Brown
+  - Pat Connaughton
+  - Donte DiVincenzo
+  - George Hill
+  - Ersan Ilyasova
+  - Kyle Korver
+  - Brook Lopez
+  - Robin Lopez
+  - Frank Mason
+  - Wesley Matthews
+  - Khris Middleton
+  - Marvin Williams
+  - D.J. Wilson
+
+NOP:
+  - Nickeil Alexander-Walker
+  - Lonzo Ball
+  - Zylan Cheatham
+  - Derrick Favors
+  - Josh Hart
+  - Jaxson Hayes
+  - Jrue Holiday
+  - Brandon Ingram
+  - Frank Jackson
+  - Nicolo Melli
+  - E’Twaun Moore
+  - Jahlil Okafor
+  - JJ Redick
+  - Sindarius Thornwell
+  - Kenrich Williams
+  - Zion Williamson
+
+OKC:
+  - Steven Adams
+  - Darius Bazley
+  - Deonte Burton
+  - Hamidou Diallo
+  - Luguentz Dort
+  - Terrance Ferguson
+  - Danilo Gallinari
+  - Shai Gilgeous-Alexander
+  - Devon Hall
+  - Kevin Hervey
+  - Mike Muscala
+  - Abdel Nader
+  - Nerlens Noel
+  - Chris Paul
+  - Andre Roberson
+  - Dennis Schroder
+
+ORL:
+  - D.J. Augustin
+  - Mo Bamba
+  - Khem Birch
+  - Michael Carter-Williams
+  - Gary Clark
+  - James Ennis III
+  - Evan Fournier
+  - Melvin Frazier Jr.
+  - Markelle Fultz
+  - Aaron Gordon
+  - Jonathan Isaac
+  - Wes Iwundu
+  - BJ Johnson
+  - Vic Law
+  - Terrence Ross
+  - Nikola Vucevic
+
+PHI:
+  - Alec Burks
+  - Joel Embiid
+  - Tobias Harris
+  - Al Horford
+  - Furkan Korkmaz
+  - Shake Milton
+  - Raul Neto
+  - Kyle O’Quinn
+  - Norvel Pelle
+  - Josh Richardson
+  - Glenn Robinson III
+  - Mike Scott
+  - Marial Shayok
+  - Ben Simmons
+  - Matisse Thybulle
+
+PHO:
+  - Deandre Ayton
+  - Aron Baynes
+  - Devin Booker
+  - Mikal Bridges
+  - Jevon Carter
+  - Cheick Diallo
+  - Ty Jerome
+  - Cam Johnson
+  - Frank Kaminsky
+  - Jalen Lecque
+  - Elie Okobo
+  - Kelly Oubre Jr.
+  - Cam Payne
+  - Ricky Rubio
+  - Dario Saric
+
+POR:
+  - Jaylen Adams
+  - Carmelo Anthony
+  - Zach Collins
+  - Wenyen Gabriel
+  - Mario Hezonja
+  - Jaylen Hoard
+  - Damian Lillard
+  - Nassir Little
+  - CJ McColum
+  - Jusuf Nurkic
+  - Anfernee Simons
+  - Gary Trent Jr.
+  - Hassan Whiteside
+
+SAC:
+  - Marvin Bagley III
+  - Harrison Barnes
+  - Kent Bazemore
+  - Nemanja Bjelica
+  - Bogdan Bogdanovic
+  - Corey Brewer
+  - Yogi Ferrell
+  - De’Aaron Fox
+  - Harry Giles III
+  - Kyle Guy
+  - Budy Hield
+  - Richaun Holmes
+  - Justin James
+  - DaQuan Jeffries
+  - Cory Joseph
+  - Alex Len
+  - Jabari Parker
+
+SAS:
+  - Marco Belinelli
+  - DeMar DeRozan
+  - Drew Eubanks
+  - Bryn Forbes
+  - Rudy Gay
+  - Keldon Johnson
+  - Trey Lyles
+  - Chimezie Metu
+  - Patty Mills
+  - Dejounte Murray
+  - Jakob Poeltl
+  - Luka Samanic
+  - Lonnie Walker IV
+  - Quinndary Weatherspoon
+  - Derrick White
+  - Tyler Zeller
+
+TOR:
+  - OG Anunoby
+  - Chris Boucher
+  - Oshae Brissett
+  - Terence Davis
+  - Marc Gasol
+  - Dewan Hernandez
+  - Rondae Hollis-Jefferson
+  - Serge Ibaka
+  - Stanley Johnson
+  - Kyle Lowry
+  - Patrick McCaw
+  - Malcolm Miller
+  - Norman Powell
+  - Pascal Siakam
+  - Matt Thomas
+  - Fred VanVleet
+  - Paul Watson
+
+UTA:
+  - Tony Bradley
+  - Jarrell Brantley
+  - Jordan Clarkson
+  - Mike Conley
+  - Ed Davis
+  - Rudy Gobert
+  - Joe Ingles
+  - Donovan Mitchell
+  - Juwan Morgan
+  - Emmanuel Mudiay
+  - Georges Niang
+  - Royce O’Neale
+  - Miye Oni
+  - Rayjon Tucker
+  - Nigel Williams-Goss
+  - Justin Wright-Foreman
+
+WAS:
+  - Isaac Bonga
+  - Troy Brown Jr.
+  - Thomas Bryant
+  - Jerian Grant
+  - Rui Hachimura
+  - Ian Mahinmi
+  - Garrison Mathews
+  - Shabazz Napier
+  - Anzejs Pasecniks
+  - Jerome Robinson
+  - Admiral Schofield
+  - Ish Smith
+  - Jarrod Uthoff
+  - Mo Wagner
+  - Johnathan Willams
