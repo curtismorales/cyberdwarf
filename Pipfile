@@ -1,5 +1,10 @@
 [packages]
+autoflake = "*"
 beautifulsoup4 = "*"
+black = "==19.10b0"
+flake8 = "*"
+isort = "*"
+mypy = "*"
 notebook = "*"
 numpy = "*"
 pandas = "*"
