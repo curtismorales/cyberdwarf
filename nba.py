@@ -8,7 +8,7 @@ class Conference(Enum):
     EAST = "East"
     WEST = "West"
 
-    
+
 @dataclass
 class Team:
     symbol: str
@@ -24,10 +24,12 @@ class Game:
     winner: Optional[str]
     date: date
     link: str
-    
-    def teams() -> Tuple[str, str]:
+
+    def teams(self) -> Tuple[str, str]:
         return (self.home, self.away)
 
+
+SCORED_STATS = ["pts", "trb", "ast", "stl", "blk", "fg3"]
 
 TEAMS = [
     Team("BOS", "Boston", "Celtics", Conference.EAST),
@@ -64,3 +66,14 @@ OTHER_TEAMS = [
     Team("GSW", "Golden State", "Warriors", Conference.WEST),
 ]
 ALL_TEAMS = TEAMS + OTHER_TEAMS
+
+
+def position_order(position: str):
+    if position == "G":
+        return 0
+    if position == "X":
+        return 1
+    if position == "F":
+        return 2
+    if position == "C":
+        return 3

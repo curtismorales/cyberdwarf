@@ -1,14 +1,16 @@
 from datetime import date, datetime
 from typing import Dict, List
 
-from bs4 import BeautifulSoup
 import requests
+from bs4 import BeautifulSoup
 
 from nba import Game
 
 
 def get_games(symbol: str) -> List[Game]:
-    response = requests.get(f"https://www.basketball-reference.com/teams/{symbol}/2020_games.html")
+    response = requests.get(
+        f"https://www.basketball-reference.com/teams/{symbol}/2020_games.html"
+    )
     soup = BeautifulSoup(response.text, "html.parser")
 
     table = soup.find(id="games")
@@ -20,7 +22,9 @@ def get_games(symbol: str) -> List[Game]:
             continue
         date_string = row.find(attrs={"data-stat": "date_game"}).get("csk")
         game_date = datetime.strptime(date_string, "%Y-%m-%d").date()
-        link = date_string = row.find(attrs={"data-stat": "box_score_text"}).a.get("href")
+        link = date_string = row.find(attrs={"data-stat": "box_score_text"}).a.get(
+            "href"
+        )
 
         opponent = row.find(attrs={"data-stat": "opp_name"}).get("csk")[:3]
         at_home = row.find(attrs={"data-stat": "game_location"}).text == "@"
@@ -63,11 +67,10 @@ def get_game_stats(game) -> List[Dict]:
 
     home = game.home
     home_table = soup.find(id=f"box-{home}-game-basic")
-    
+
     away = game.away
     away_table = soup.find(id=f"box-{away}-game-basic")
 
-    return (
-        parse_box_score(home_table, home, away, game.date) + 
-        parse_box_score(away_table, away, home, game.date)
+    return parse_box_score(home_table, home, away, game.date) + parse_box_score(
+        away_table, away, home, game.date
     )

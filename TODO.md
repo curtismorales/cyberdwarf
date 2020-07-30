@@ -7,11 +7,11 @@
     - ~~Zion~~
     - ~~Oladipo~~
   - collect basic lineup options:
-    - default (first 5 with valid positions)
-    - max total z-score
-    - max stat rankings:
-      - assuming default other lineups
-      - assuming max z-score other lineups
+    - ~~default (first 5 with valid positions)~~
+    - ~~max total z-score~~
+    - ~~max stat rankings~~:
+      - ~~assuming default other lineups~~
+      - ~~assuming max z-score other lineups~~
   - fill in fake games for special cases?
   - build ability to Monte Carlo a set of lineups
     - per player, pick 4 games at random from their games played this year
